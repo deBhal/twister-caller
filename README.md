@@ -9,11 +9,11 @@ took too long the first time, but it worked the second time around, so I
 thought I'd throw it up on github.
 
 ## Usage
-
-cd twister-caller
 lein run
-ctrl-c ctrl-c
 
 ## License
 Copyright (c) 2014 Julian de Bhal
 MIT Licence - see http://opensource.org/licenses/MIT
+
+
+
